@@ -1,0 +1,13 @@
+{
+    "name": "ale/script-php-peak",
+    "authors": [
+        {
+            "name": "Alexandre Muniz",
+            "email": "xandeeknd@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^9.6"
+    }
+}
