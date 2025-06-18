@@ -39,7 +39,7 @@ php script.php 1 2 2 3 4 5 2 1 3 3
 Run unit tests with PHPUnit:
 
 ```bash
-vendor/bin/phpunit
+vendor/bin/phpunit tests
 ```
 
 ## Project Structure
